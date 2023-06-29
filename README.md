@@ -59,7 +59,6 @@ El archivo "package.json" también contiene varios scripts predefinidos para eje
 - `dev`: Inicia la aplicación en modo de desarrollo utilizando `ts-node-dev`.
 - `start`: Inicia la aplicación en modo de producción utilizando el archivo compilado `build/app.js`.
 - `tsc`: Compila los archivos TypeScript a JavaScript.
-- `test`: Ejecuta las pruebas utilizando Jest.
 
 Para ejecutar la aplicación en modo de desarrollo, puedes ejecutar el siguiente comando:
 
